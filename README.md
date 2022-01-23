@@ -101,3 +101,4 @@ For the `subql-starter` project, you can try to query with the following code to
 }
 ````
 # subql_module4
+# exercise-module4
